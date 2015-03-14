@@ -1,0 +1,11 @@
+{
+  "name": "Skyper",
+  "version": "1.0.0",
+  "description": "Send skype messages online!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "killazombiecow",
+  "license": "ISC"
+}
